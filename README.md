@@ -1,7 +1,6 @@
 ﻿# LucasTompson97.github.io
 ## Projeto do Curso de Git e GitHub do básico ao avançado (com gist e github pages)
 >Status: Concluído :heavy_check_mark:
-### Criar uma página na web utiliziando as seguintes tags aprendidas.
 A ideia deste Projeto é elaborar um website Portfólio, utilizando uma estrutura bem básica, utilizando o GitHub pages.
 ![projeto_git](https://github.com/LucasTompson97/LucasTompson97.github.io/assets/40512508/d3404cf0-d49d-467b-9143-04655a6e54bd)
 ![projeto_git2](https://github.com/LucasTompson97/LucasTompson97.github.io/assets/40512508/c5d4bfb5-6f93-49e2-b05c-d9da3b44cdcf)
